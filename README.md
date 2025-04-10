@@ -6,6 +6,14 @@ The **Financial Dashboard App** is a web-based financial management and analytic
 This project follows **modern web development practices**, using **Docker, PostgreSQL, and Next.js App Router** for a scalable and efficient user experience.
 
 ---
+## Landing Page
+![image](https://github.com/user-attachments/assets/49b38594-1565-41fb-a0b2-df7a96de2ec8)
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/a5b100fb-2afb-41bf-8ce6-209baa5f81fb)
+
+## Invoices 
+![image](https://github.com/user-attachments/assets/9f93c16c-393d-47bb-b4ee-8a56d8a2bdcf)
 
 ## Features
 - 📊 **Dashboard Overview** – Track key financial metrics at a glance.
@@ -22,8 +30,6 @@ This project follows **modern web development practices**, using **Docker, Postg
 - **Styling:** Tailwind CSS, PostCSS
 - **Backend:** PostgreSQL, Prisma ORM
 - **Authentication:** NextAuth.js
-- **DevOps & Deployment:** Docker, Kubernetes, Google Cloud
-- **Monitoring & CI/CD:** Prometheus, Jenkins, Git, Ansible, Terraform
 
 ---
 
